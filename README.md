@@ -1,1 +1,2 @@
-# Lino
+documentar, explicar, escrever
+#ola
